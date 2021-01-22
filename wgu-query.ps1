@@ -7,7 +7,7 @@ I dunno
 PS> .\wgu-query.ps1 -target example.com
 Will perform a cert.sh lookup on example.com
 .LINK
-fill this in later dummy
+https://github.com/thenamol/wgu-query
 #>
 [CmdletBinding()]
 param (
